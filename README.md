@@ -1,4 +1,4 @@
-# Waypoint — Hotel Search Explorer
+# StaySphere — Hotel Search Explorer
 
 A responsive hotel discovery app built with React + Vite, consuming the
 [Hotel Search API](https://demohotelsapi.pythonanywhere.com/) (`GET /hotels/`).
